@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-
-//video paused at 26:35
+//video paused at 33:00
 int main() {
 	int age = 10;
 	int height = 72;
